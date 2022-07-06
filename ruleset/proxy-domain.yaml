@@ -9,6 +9,8 @@ payload:
   - 'ocsp.verisign.net'
   - 'testflight.apple.com'
   - 'cvws.icloud-content.com'
+  - 'sandbox.itunes.apple.com'
+  - 'itunes.apple.com'
   - '+.imdb'
   - '+.dmm'
   - '+.pixiv'
