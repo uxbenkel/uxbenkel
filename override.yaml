@@ -1,6 +1,6 @@
 name: 我的规则覆写
 desc: 自定义规则，常用网站，以及WeChat和Apple Intelligence
-icon: "https://github.com/Koolson/Qure/blob/63be653774a6a83cd8e475a7b65f1ed68b9a0093/IconSet/mini/Proxy.png"
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
 category: "rule"
 
 +rules:
