@@ -1,0 +1,52 @@
++rules:
+# PROXY
+  - DOMAIN-SUFFIX,ls.apple.com,直接连接
+  - DOMAIN-KEYWORD,pikpak,直接连接
+  - DOMAIN-SUFFIX,kp.m-team.cc,国外流量
+  - DOMAIN-SUFFIX,acg.rip,国外流量
+  - DOMAIN-SUFFIX,nyaa.si,国外流量
+  - DOMAIN-SUFFIX,appstorrent.ru,国外流量
+  - DOMAIN-KEYWORD,openai,国外流量
+  - DOMAIN-KEYWORD,claude,国外流量
+  - DOMAIN-KEYWORD,anthropic,国外流量
+  - DOMAIN-SUFFIX,google.dev,国外流量
+  - DOMAIN-KEYWORD,gemini,国外流量
+  - DOMAIN-SUFFIX,dnull.xyz,国外流量
+
+# WeChat
+  - PROCESS-NAME,WeChat,直接连接
+  - IP-CIDR,43.128.0.0/16,直接连接,no-resolve
+  - IP-CIDR,43.129.255.38/18,直接连接,no-resolve
+  - IP-CIDR,43.159.0.0/16,直接连接,no-resolve
+  - IP-CIDR,43.160.0.0/16,直接连接,no-resolve
+  - IP-CIDR,43.174.0.0/16,直接连接,no-resolve
+  - IP-CIDR,101.32.0.0/16,直接连接,no-resolve
+  - IP-CIDR,120.232.51.42/16,直接连接,no-resolve
+  - IP-CIDR,129.226.0.0/16,直接连接,no-resolve
+  - IP-CIDR,129.206.106.198/16,直接连接,no-resolve
+  - IP-CIDR,150.109.0.0/16,直接连接,no-resolve
+  - IP-CIDR,202.108.22.5/18,直接连接,no-resolve
+  - DOMAIN-SUFFIX,ftisthebest.com,直接连接
+  - DOMAIN-SUFFIX,wechat.com,直接连接
+  - DOMAIN-SUFFIX,qpic.cn,直接连接
+  - DOMAIN-SUFFIX,wechatpay.cn,直接连接
+  - DOMAIN-SUFFIX,qlogo.cn,直接连接
+  - DOMAIN-SUFFIX,wx.qq.com,直接连接
+  - DOMAIN-SUFFIX,servicewechat.com,直接连接
+  - DOMAIN-SUFFIX,scdsjzx.com,直接连接
+  - DOMAIN-SUFFIX,servicewechat.com,直接连接
+  - DOMAIN-SUFFIX,weixinconf.qq.com,直接连接
+  - DOMAIN-SUFFIX,wxs.qq.com,直接连接
+  - DOMAIN-SUFFIX,weixinconf.qq.com,直接连接
+  - DOMAIN-SUFFIX,wechatapp.com,直接连接
+  - DOMAIN-SUFFIX,xdow.net,直接连接
+  - DOMAIN-KEYWORD,weixin,直接连接
+  - DOMAIN-KEYWORD,wechat,直接连接
+
+# Apple Intelligence
+  - DOMAIN-SUFFIX,guzzoni.apple.com,国外流量
+  - DOMAIN-SUFFIX,smoot.apple.com,国外流量
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com,国外流量
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com,国外流量
+  - DOMAIN-SUFFIX,cp4.cloudflare.com,国外流量
+  - DOMAIN-SUFFIX,apple-relay.apple.com,国外流量
