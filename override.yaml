@@ -1,7 +1,7 @@
-name: 我的规则覆写
-desc: 自定义规则，常用网站，以及WeChat和Apple Intelligence
-icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
-category: "rule"
+# name: 我的规则覆写
+# desc: 自定义规则，常用网站，以及WeChat和Apple Intelligence
+# icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
+# category: "rule"
 
 rules:
 # PROXY
