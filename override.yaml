@@ -10,8 +10,9 @@ rules:
   - DOMAIN-KEYWORD,m-team,DIRECT
   - DOMAIN-KEYWORD,duolingo,DIRECT
   - DOMAIN-SUFFIX,lcsignx.com,DIRECT
-  - DOMAIN-KEYWORD,boombeach,良心云
   - DOMAIN-KEYWORD,supercell,良心云
+  - DOMAIN-KEYWORD,boombeach,良心云
+  - DOMAIN-KEYWORD,boombeachgame,良心云
   - DOMAIN-SUFFIX,sign.lc,良心云
   - DOMAIN-SUFFIX,acg.rip,良心云
   - DOMAIN-SUFFIX,nyaa.si,良心云
