@@ -9,10 +9,12 @@ rules:
   - DOMAIN-KEYWORD,pikpak,DIRECT
   - DOMAIN-KEYWORD,m-team,DIRECT
   - DOMAIN-KEYWORD,duolingo,DIRECT
-  - DOMAIN-SUFFIX,lcsignx.com,DIRECT
+  - DOMAIN-KEYWORD,iosgods,良心云
   - DOMAIN-KEYWORD,supercell,良心云
   - DOMAIN-KEYWORD,boombeach,良心云
   - DOMAIN-KEYWORD,boombeachgame,良心云
+  - DOMAIN-SUFFIX,dnull.xyz,良心云
+  - DOMAIN-SUFFIX,lcsignx.com,DIRECT
   - DOMAIN-SUFFIX,sign.lc,良心云
   - DOMAIN-SUFFIX,acg.rip,良心云
   - DOMAIN-SUFFIX,nyaa.si,良心云
@@ -20,7 +22,6 @@ rules:
   - DOMAIN-KEYWORD,openai,良心云
   - DOMAIN-SUFFIX,google.dev,良心云
   - DOMAIN-KEYWORD,gemini,良心云
-  - DOMAIN-SUFFIX,dnull.xyz,良心云
 
 # WeChat
   - PROCESS-NAME,WeChat,DIRECT
