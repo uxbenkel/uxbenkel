@@ -8,6 +8,8 @@ rules:
   - DOMAIN-SUFFIX,ls.apple.com,DIRECT
   - DOMAIN-KEYWORD,pikpak,DIRECT
   - DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,lcsignx.com,DIRECT
+  - DOMAIN-SUFFIX,sign.lc,良心云
   - DOMAIN-SUFFIX,acg.rip,良心云
   - DOMAIN-SUFFIX,nyaa.si,良心云
   - DOMAIN-SUFFIX,appstorrent.ru,良心云
