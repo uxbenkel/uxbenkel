@@ -14,7 +14,6 @@ rules:
   - DOMAIN-SUFFIX,nyaa.si,良心云
   - DOMAIN-SUFFIX,appstorrent.ru,良心云
   - DOMAIN-KEYWORD,openai,良心云
-  - DOMAIN-KEYWORD,claude,良心云
   - DOMAIN-SUFFIX,google.dev,良心云
   - DOMAIN-KEYWORD,gemini,良心云
   - DOMAIN-SUFFIX,dnull.xyz,良心云
