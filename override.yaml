@@ -7,8 +7,11 @@ rules:
 # PROXY
   - DOMAIN-SUFFIX,ls.apple.com,DIRECT
   - DOMAIN-KEYWORD,pikpak,DIRECT
-  - DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+  - DOMAIN-KEYWORD,m-team,DIRECT
+  - DOMAIN-KEYWORD,duolingo,DIRECT
   - DOMAIN-SUFFIX,lcsignx.com,DIRECT
+  - DOMAIN-KEYWORD,boombeach,良心云
+  - DOMAIN-KEYWORD,supercell,良心云
   - DOMAIN-SUFFIX,sign.lc,良心云
   - DOMAIN-SUFFIX,acg.rip,良心云
   - DOMAIN-SUFFIX,nyaa.si,良心云
